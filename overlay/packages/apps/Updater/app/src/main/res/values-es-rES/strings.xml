@@ -89,7 +89,7 @@
     <string name="menu_stream_updates_summary">Instalar actualizaciones durante la descarga. Desactivar para guardar los paquetes de actualización para exportar.</string>
     <string name="menu_delete_update">Borrar</string>
     <string name="menu_export_update">Exportar actualización</string>
-    <string name="menu_view_downloads">Ver en <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Descargas</string>
+    <string name="menu_view_downloads">Ver en <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Descargas</string>
     <string name="menu_metered_network_warning">Advertencia de red de uso medido</string>
     <string name="menu_metered_network_warning_summary">Avisar antes de descargar usando datos móviles</string>
     <string name="menu_ab_perf_mode">Priorizar el proceso de actualización</string>
@@ -126,13 +126,13 @@
     <string name="found_bug">¿Encontraste un error? Reportalo con nuestra guía de reporte de errores:</string>
     <string name="updates_zero_state_title">No hay actualizaciones disponibles</string>
     <string name="updates_zero_state_description">Las nuevas compilaciones para este dispositivo aparecerán aquí cuando estén disponibles.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Tamaño de la actualización: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Actualización de seguridad: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Actualización mayor de Android</string>
     <string name="list_full_install">Instalación completa: puede instalarse sin problemas sobre cualquier versión anterior</string>
-    <string name="list_major_upgrade_recovery_install">Las actualizaciones mayores de versión <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> deben instalarse manualmente. Consulta la guía de tu dispositivo para continuar.</string>
+    <string name="list_major_upgrade_recovery_install">Las actualizaciones mayores de versión <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> deben instalarse manualmente. Consulta la guía de tu dispositivo para continuar.</string>
     <string name="list_downgrade_blocked">Esta versión es más antigua que el sistema instalado y no se puede aplicar.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> de <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> de <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

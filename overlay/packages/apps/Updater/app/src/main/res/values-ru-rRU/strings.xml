@@ -90,7 +90,7 @@
     <string name="menu_stream_updates_summary">Устанавливать обновления прямо во время скачивания. Отключите, чтобы сохранить пакеты обновлений для экспорта.</string>
     <string name="menu_delete_update">Удалить</string>
     <string name="menu_export_update">Экспорт обновления</string>
-    <string name="menu_view_downloads">Посмотреть загрузки <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g></string>
+    <string name="menu_view_downloads">Посмотреть загрузки <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g></string>
     <string name="menu_metered_network_warning">Предупреждение о расходе данных</string>
     <string name="menu_metered_network_warning_summary">Предупреждать перед скачиванием через мобильную сеть</string>
     <string name="menu_ab_perf_mode">Приоритет процесса обновления</string>
@@ -127,13 +127,13 @@
     <string name="found_bug">Нашли баг? Отправьте отчет с помощью нашей инструкции:</string>
     <string name="updates_zero_state_title">Нет доступных обновлений</string>
     <string name="updates_zero_state_description">Новые сборки для этого устройства появятся здесь, когда они будут доступны.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Размер обновления: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Патч безопасности: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Крупное обновление Android</string>
     <string name="list_full_install">Полная установка: можно ставить поверх любой предыдущей сборки</string>
-    <string name="list_major_upgrade_recovery_install">Крупные обновления версии <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> необходимо устанавливать вручную. Обратитесь к руководству для вашего устройства, чтобы продолжить.</string>
+    <string name="list_major_upgrade_recovery_install">Крупные обновления версии <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> необходимо устанавливать вручную. Обратитесь к руководству для вашего устройства, чтобы продолжить.</string>
     <string name="list_downgrade_blocked">Эта сборка старее установленной системы, установка невозможна.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> из <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> из <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

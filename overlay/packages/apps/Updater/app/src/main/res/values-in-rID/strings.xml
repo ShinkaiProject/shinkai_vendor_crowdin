@@ -91,7 +91,7 @@
     <string name="menu_stream_updates_summary">Pasang pembaruan sambil mengunduh. Nonaktifkan untuk menyimpan paket pembaruan untuk diekspor.</string>
     <string name="menu_delete_update">Hapus</string>
     <string name="menu_export_update">Ekspor pembaruan</string>
-    <string name="menu_view_downloads">Lihat di <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Downloads</string>
+    <string name="menu_view_downloads">Lihat di <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Downloads</string>
     <string name="menu_metered_network_warning">Peringatan jaringan berbayar</string>
     <string name="menu_metered_network_warning_summary">Peringatkan sebelum mengunduh melalui data seluler</string>
     <string name="menu_ab_perf_mode">Prioritaskan proses pembaruan</string>
@@ -128,13 +128,13 @@
     <string name="found_bug">Menemukan bug? Laporkan dengan panduan laporan bug kami:</string>
     <string name="updates_zero_state_title">Tidak ada pembaruan tersedia</string>
     <string name="updates_zero_state_description">Build baru untuk perangkat ini akan muncul di sini jika tersedia.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Ukuran pembaruan: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Pembaruan keamanan: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Upgrade Android besar</string>
     <string name="list_full_install">Pemasangan penuh: Aman dipasang di atas build sebelumnya</string>
-    <string name="list_major_upgrade_recovery_install">Upgrade versi besar <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> harus dipasang secara manual. Lihat panduan perangkat Anda untuk melanjutkan.</string>
+    <string name="list_major_upgrade_recovery_install">Upgrade versi besar <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> harus dipasang secara manual. Lihat panduan perangkat Anda untuk melanjutkan.</string>
     <string name="list_downgrade_blocked">Build ini lebih lama dari sistem yang terpasang dan tidak dapat diterapkan.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> dari <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> dari <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

@@ -91,7 +91,7 @@
     <string name="menu_stream_updates_summary">ダウンロード中にアップデートをインストールします。エクスポート用にアップデート パッケージを保存する場合は無効にしてください。</string>
     <string name="menu_delete_update">削除</string>
     <string name="menu_export_update">アップデートをエクスポート</string>
-    <string name="menu_view_downloads"><xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Downloads で表示</string>
+    <string name="menu_view_downloads"><xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Downloads で表示</string>
     <string name="menu_metered_network_warning">従量制ネットワークの警告</string>
     <string name="menu_metered_network_warning_summary">モバイルデータでダウンロードする前に警告します</string>
     <string name="menu_ab_perf_mode">アップデート処理を優先</string>
@@ -128,13 +128,13 @@
     <string name="found_bug">バグを見つけましたか？バグ報告ガイドに従って報告してください:</string>
     <string name="updates_zero_state_title">利用可能なアップデートはありません</string>
     <string name="updates_zero_state_description">このデバイス向けの新しいビルドは、利用可能になるとここに表示されます。</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">アップデートのサイズ: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">セキュリティ アップデート: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Android のメジャー アップグレード</string>
     <string name="list_full_install">フル インストール: 以前のどのビルドの上にも安全にインストールできます</string>
-    <string name="list_major_upgrade_recovery_install"><xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> のメジャー バージョン アップグレードは手動でインストールする必要があります。続行するにはデバイスのガイドを参照してください。</string>
+    <string name="list_major_upgrade_recovery_install"><xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> のメジャー バージョン アップグレードは手動でインストールする必要があります。続行するにはデバイスのガイドを参照してください。</string>
     <string name="list_downgrade_blocked">このビルドはインストール済みのシステムより古いため、適用できません。</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

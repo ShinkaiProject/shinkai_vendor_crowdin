@@ -123,8 +123,8 @@
     <string name="found_bug">Знайшли проблему? Заповніть нашу форму:</string>
     <string name="updates_zero_state_title">Оновлення не знайдено</string>
     <string name="updates_zero_state_description">Нові оновлення з\'являться тут.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Розмір оновлення: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Оновлення безпеки: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_full_install">Повне завантаження: Безпечно для встановлення поверх попередніх систем</string>

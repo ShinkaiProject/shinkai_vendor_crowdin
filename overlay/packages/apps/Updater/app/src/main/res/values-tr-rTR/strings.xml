@@ -91,7 +91,7 @@ Lütfen aşağıdaki komutları çalıştırın ve güncellemeyi tekrar deneyin.
     <string name="menu_stream_updates_summary">Güncellemeleri indirirken yükle. Güncelleme paketlerini dışa aktarmak için saklamak istiyorsanız devre dışı bırakın.</string>
     <string name="menu_delete_update">Sil</string>
     <string name="menu_export_update">Güncellemeyi dışa aktar</string>
-    <string name="menu_view_downloads"><xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Downloads üzerinde görüntüle</string>
+    <string name="menu_view_downloads"><xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Downloads üzerinde görüntüle</string>
     <string name="menu_metered_network_warning">Kotalı ağ uyarısı</string>
     <string name="menu_metered_network_warning_summary">Mobil veri üzerinden indirmeden önce uyar</string>
     <string name="menu_ab_perf_mode">Güncelleme sürecine öncelik ver</string>
@@ -128,13 +128,13 @@ Lütfen aşağıdaki komutları çalıştırın ve güncellemeyi tekrar deneyin.
     <string name="found_bug">Bir hata mı buldunuz? Hata raporu rehberimizi kullanarak bildirin:</string>
     <string name="updates_zero_state_title">Güncelleme yok</string>
     <string name="updates_zero_state_description">Bu cihaz için yeni derlemeler kullanılabilir olduğunda burada görünecek.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Güncelleme boyutu: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Güvenlik güncellemesi: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Büyük Android yükseltmesi</string>
     <string name="list_full_install">Tam yükleme: Önceki herhangi bir derlemenin üzerine güvenle yüklenebilir</string>
-    <string name="list_major_upgrade_recovery_install">Büyük <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> sürüm yükseltmeleri manuel olarak yüklenmelidir. Devam etmek için cihazınızın rehberine bakın.</string>
+    <string name="list_major_upgrade_recovery_install">Büyük <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> sürüm yükseltmeleri manuel olarak yüklenmelidir. Devam etmek için cihazınızın rehberine bakın.</string>
     <string name="list_downgrade_blocked">Bu derleme yüklü sistemden daha eski ve uygulanamaz.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

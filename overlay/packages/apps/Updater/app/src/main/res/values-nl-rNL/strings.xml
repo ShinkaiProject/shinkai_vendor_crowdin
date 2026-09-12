@@ -91,7 +91,7 @@
     <string name="menu_stream_updates_summary">Updates installeren tijdens het downloaden. Schakel uit om updatepakketten te bewaren voor export.</string>
     <string name="menu_delete_update">Verwijderen</string>
     <string name="menu_export_update">Update exporteren</string>
-    <string name="menu_view_downloads">Bekijken op <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Downloads</string>
+    <string name="menu_view_downloads">Bekijken op <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Downloads</string>
     <string name="menu_metered_network_warning">Waarschuwing voor netwerk met datalimiet</string>
     <string name="menu_metered_network_warning_summary">Waarschuwen voordat er via mobiele data wordt gedownload</string>
     <string name="menu_ab_perf_mode">Updateproces prioriteit geven</string>
@@ -128,13 +128,13 @@
     <string name="found_bug">Een bug gevonden? Meld het met onze handleiding voor bugrapporten:</string>
     <string name="updates_zero_state_title">Geen updates beschikbaar</string>
     <string name="updates_zero_state_description">Nieuwe builds voor dit apparaat verschijnen hier zodra ze beschikbaar zijn.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Updategrootte: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Beveiligingsupdate: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Grote Android-upgrade</string>
     <string name="list_full_install">Volledige installatie: veilig te installeren over elke vorige build</string>
-    <string name="list_major_upgrade_recovery_install">Grote versie-upgrades van <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> moeten handmatig worden geïnstalleerd. Raadpleeg de handleiding van je apparaat om door te gaan.</string>
+    <string name="list_major_upgrade_recovery_install">Grote versie-upgrades van <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> moeten handmatig worden geïnstalleerd. Raadpleeg de handleiding van je apparaat om door te gaan.</string>
     <string name="list_downgrade_blocked">Deze build is ouder dan het geïnstalleerde systeem en kan niet worden toegepast.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> van <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> van <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>

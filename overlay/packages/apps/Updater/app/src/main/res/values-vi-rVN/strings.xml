@@ -90,7 +90,7 @@ Vui lòng chạy các lệnh sau và thử cập nhật lại:\n
     <string name="menu_stream_updates_summary">Cài đặt bản cập nhật trong khi tải xuống. Tắt để giữ lại gói cập nhật cho việc xuất.</string>
     <string name="menu_delete_update">Xóa</string>
     <string name="menu_export_update">Xuất bản cập nhật</string>
-    <string name="menu_view_downloads">Xem trên <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> Downloads</string>
+    <string name="menu_view_downloads">Xem trên <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> Downloads</string>
     <string name="menu_metered_network_warning">Cảnh báo mạng tính phí</string>
     <string name="menu_metered_network_warning_summary">Cảnh báo trước khi tải qua dữ liệu di động</string>
     <string name="menu_ab_perf_mode">Ưu tiên quá trình cập nhật</string>
@@ -127,13 +127,13 @@ Vui lòng chạy các lệnh sau và thử cập nhật lại:\n
     <string name="found_bug">Tìm thấy lỗi? Hãy báo cáo theo hướng dẫn báo lỗi của chúng tôi:</string>
     <string name="updates_zero_state_title">Không có bản cập nhật</string>
     <string name="updates_zero_state_description">Các bản dựng mới cho thiết bị này sẽ xuất hiện ở đây khi có.</string>
-    <string name="list_build_version">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelOS <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_build_version">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Shinkai Project <xliff:g id="version" example="17.0">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
     <string name="list_update_size">Kích cỡ bản cập nhật: <xliff:g id="size" example="1.34 GB">%1$s</xliff:g></string>
     <string name="list_security_update">Bản cập nhật bảo mật: <xliff:g id="date" example="Jan 2026">%1$s</xliff:g></string>
     <string name="list_major_android_upgrade">Nâng cấp Android lớn</string>
     <string name="list_full_install">Cài đặt đầy đủ: An toàn khi cài lên bất kỳ bản dựng trước đó</string>
-    <string name="list_major_upgrade_recovery_install">Các bản nâng cấp phiên bản lớn của <xliff:g id="brand_name" example="PixelOS">%1$s</xliff:g> phải được cài đặt thủ công. Hãy tham khảo hướng dẫn cho thiết bị của bạn để tiếp tục.</string>
+    <string name="list_major_upgrade_recovery_install">Các bản nâng cấp phiên bản lớn của <xliff:g id="brand_name" example="Shinkai Project">%1$s</xliff:g> phải được cài đặt thủ công. Hãy tham khảo hướng dẫn cho thiết bị của bạn để tiếp tục.</string>
     <string name="list_downgrade_blocked">Bản dựng này cũ hơn hệ thống đã cài và không thể áp dụng.</string>
     <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
     <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> / <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
