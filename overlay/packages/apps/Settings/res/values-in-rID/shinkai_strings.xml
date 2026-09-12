@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (c) 2025 MicaOS
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+          
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Additional Settings -->
+    <string name="additional_settings_title">Pengaturan Tambahan</string>
+
+    <!-- Shinkai Maintainer -->
+    <string name="shinkai_maintainer">Maintainer</string>
+    <string name="shinkai_maintainer_purpose">Tampilkan Pengelola Perangkat untuk Build Shinkai ini</string>
+
+    <!-- Game Space -->
+    <string name="game_space_title">Ruang Game</string>
+    <string name="game_space_summary">Meningkatkan Pengalaman bermain Game Anda</string>
+
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca_title">Agregasi Operator LTE</string>
+    <string name="force_lte_ca_summary">Meningkatkan bandwidth LTE Dengan Menggabungkan Pita Frekuensi Yang Didukung</string>
+
+    <!-- Shinkai Version -->
+    <string name="shinkai_version">Shinkai version</string>
+    <string name="shinkai_version_purpose">Menampilkan versi build Shinkai yang terinstal</string>
+    <string name="shinkai_logo_purpose">Menampilkan logo proyek Shinkai</string>
+
+    <!-- Override Mock Location restriction -->
+    <string name="override_mock_location_title">Mengesampingkan batasan MockLocation</string>
+    <string name="override_mock_location_summary">Saat diaktifkan, aplikasi tidak dapat mendeteksi lokasi palsu</string>
+
+    <!-- click to take partial screenshot -->
+    <string name="click_partial_screenshot_title">Klik untuk mengambil tangkapan layar sebagian</string>
+    <string name="click_partial_screenshot_summary">Tekan singkat tombol Volume Turun dan Power untuk mengambil tangkapan layar sebagian</string>
+
+    <!-- Lockscreen battery info indicator -->
+    <string name="lockscreen_battery_info_title">Info Pengisian Daya di Layar Kunci</string>
+    <string name="lockscreen_battery_info_summary">Menampilkan arus, tegangan, daya, dan suhu saat mengisi daya</string>
+
+    <!-- Per-app volume -->
+    <string name="app_volume">Volume aplikasi</string>
+    <string name="app_volume_title">Kontrol volume per aplikasi</string>
+    <string name="app_volume_summary">Tampilkan tombol volume per aplikasi di dalam dialog volume</string>
+
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Jeda Cerdas</string>
+    <string name="adaptive_playback_enabled">Gunakan Jeda Cerdas</string>
+    <string name="adaptive_playback_disabled_summary">mati</string>
+    <string name="adaptive_playback_intro_text">Secara otomatis menjeda media saat volume dimatikan (mute) dan melanjutkannya kembali secara otomatis saat volume dikembalikan dalam batas waktu yang ditentukan.</string>
+    <string name="adaptive_playback_timeout_title">Gunakan batas waktu sebesar</string>
+    <string name="adaptive_playback_timeout_none">Tidak ada batas waktu</string>
+    <string name="adaptive_playback_timeout_none_summary">Aktif (tanpa batas waktu)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 detik</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Aktif (30 detik)</string>
+    <string name="adaptive_playback_timeout_1_min">1 menit</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Aktif (1 menit)</string>
+    <string name="adaptive_playback_timeout_2_min">2 menit</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Aktif (2 menit)</string>
+    <string name="adaptive_playback_timeout_5_min">5 menit</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Aktif (5 menit)</string>
+    <string name="adaptive_playback_timeout_10_min">10 menit</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Aktif (10 menit)</string>
+
+    <!-- Allow application downgrade -->
+    <string name="allow_downgrade_title">Izinkan penurunan versi aplikasi</string>
+    <string name="allow_downgrade_summary">Izinkan penurunan versi aplikasi sistem, yang dapat menyebabkan kegagalan aplikasi (crash) dan hilangnya data.</string>
+
+    <!-- backup -->
+    <string name="local_app_backup_restore_title">Cadangkan Dan Pulihkan Secara Lokal</string>
+    <string name="local_app_backup_restore_summary">Simpan APK dan data aplikasi sebagai arsip tar biasa di penyimpanan internal.</string>
+
+    <!-- Hide developer status -->
+    <string name="search">Mencari</string>
+    <string name="search_apps">Mencari Aplikasi</string>
+    <string name="hide_developer_status_title">Sembunyikan status opsi pengembang</string>
+    <string name="hide_developer_status_summary">Sembunyikan Opsi Pegembang dari Aplikasi</string>
+
+    <!-- Multi Audio Focus -->
+    <string name="multi_audio_focus_title">Fokus audio ganda</string>
+    <string name="multi_audio_focus_summary">Izinkan beberapa aplikasi memutar audio secara bersamaan</string>
+
+    <!-- Floating rotation button -->
+    <string name="floating_rotation_button_title">Tombol putar melayang</string>
+    <string name="floating_rotation_button_summary">Tampilkan tombol putar mengambang saat perangkat diputar.</string>
+
+    <!-- Pocket mode -->
+    <string name="proximity_wake_title">Cegah aktivasi tidak sengaja</string>
+    <string name="proximity_wake_summary">Periksa sensor jarak sebelum menyalakan layar.</string>
+</resources>

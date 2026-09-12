@@ -15,6 +15,12 @@ repos:
     files:
       - res/values/custom_strings.xml
 
+  - name: ShinkaiProject/shinkai_packages_apps_Settings
+    path: packages/apps/Settings
+    branch: heptakaideka
+    files:
+      - res/values/shinkai_strings.xml
+
   - name: PixelOS-AOSP/android_packages_apps_DolbyAtmos
     path: packages/apps/DolbyAtmos
     files:
