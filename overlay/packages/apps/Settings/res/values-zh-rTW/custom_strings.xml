@@ -235,14 +235,14 @@
     <string name="app_list_search_apps">搜索應用</string>
     <string name="app_list_loading">正在加載應用…</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">配置 Keybox XML</string>
-    <string name="keybox_data_summary">配置系統範圍的密鑰證明偽裝。點按“刪除”可恢復預設設定。</string>
+    <string name="device_identity_title">配置 Keybox XML</string>
+    <string name="device_identity_summary">配置系統範圍的密鑰證明偽裝。點按“刪除”可恢復預設設定。</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">配置 PIF JSON</string>
-    <string name="pif_data_summary">配置用於向 GMS 和 Play 商店偽裝屬性的 PIF JSON。點按“刪除”可恢復為動態預設值。</string>
+    <string name="device_props_title">配置 PIF JSON</string>
+    <string name="device_props_summary">配置用於向 GMS 和 Play 商店偽裝屬性的 PIF JSON。點按“刪除”可恢復為動態預設值。</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">偽裝認證屬性</string>
-    <string name="cert_overlay_summary">向 GMS 偽裝 PI 認證屬性\n需要重啟後生效</string>
+    <string name="verified_props_title">偽裝認證屬性</string>
+    <string name="verified_props_summary">向 GMS 偽裝 PI 認證屬性\n需要重啟後生效</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">螢幕截圖聲音</string>
     <!-- Global Actions -->

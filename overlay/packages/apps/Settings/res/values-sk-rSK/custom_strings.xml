@@ -292,14 +292,14 @@
     <string name="app_list_search_apps">Search apps</string>
     <string name="app_list_loading">Loading apps\u2026</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Configure keybox XML</string>
-    <string name="keybox_data_summary">Konfigurácia falšovania atestácie kľúčov v celom systéme. Ťuknutím na Odstrániť obnovíte predvolené hodnoty.</string>
+    <string name="device_identity_title">Configure keybox XML</string>
+    <string name="device_identity_summary">Konfigurácia falšovania atestácie kľúčov v celom systéme. Ťuknutím na Odstrániť obnovíte predvolené hodnoty.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">Configure PIF JSON</string>
-    <string name="pif_data_summary">Konfigurácia súboru PIF JSON, ktorý sa používa na falšovanie vlastností pre GMS a Obchod Play. Ťuknutím na Odstrániť sa vrátite k dynamickým predvoleným hodnotám.</string>
+    <string name="device_props_title">Configure PIF JSON</string>
+    <string name="device_props_summary">Konfigurácia súboru PIF JSON, ktorý sa používa na falšovanie vlastností pre GMS a Obchod Play. Ťuknutím na Odstrániť sa vrátite k dynamickým predvoleným hodnotám.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Falzifikovať certifikáciu</string>
-    <string name="cert_overlay_summary">Falošné certifikované vlastnosti PI v GMS\nNa uplatnenie zmien je potrebný reštart</string>
+    <string name="verified_props_title">Falzifikovať certifikáciu</string>
+    <string name="verified_props_summary">Falošné certifikované vlastnosti PI v GMS\nNa uplatnenie zmien je potrebný reštart</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Zvuk snímky obrazovky</string>
     <!-- Global Actions -->

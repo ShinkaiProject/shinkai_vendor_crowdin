@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Cerca app</string>
     <string name="app_list_loading">Caricamento app…</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Configura XML keybox</string>
-    <string name="keybox_data_summary">Configura lo spoofing dell\'attestazione delle chiavi a livello di sistema. Tocca Elimina per ripristinare i valori predefiniti.</string>
+    <string name="device_identity_title">Configura XML keybox</string>
+    <string name="device_identity_summary">Configura lo spoofing dell\'attestazione delle chiavi a livello di sistema. Tocca Elimina per ripristinare i valori predefiniti.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">Configura JSON PIF</string>
-    <string name="pif_data_summary">Configura il JSON PIF usato per falsificare le proprietà per GMS e il Play Store. Tocca Elimina per tornare ai valori predefiniti dinamici.</string>
+    <string name="device_props_title">Configura JSON PIF</string>
+    <string name="device_props_summary">Configura il JSON PIF usato per falsificare le proprietà per GMS e il Play Store. Tocca Elimina per tornare ai valori predefiniti dinamici.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Falsifica le proprietà certificate</string>
-    <string name="cert_overlay_summary">Falsifica le proprietà certificate PI per GMS\nRichiede un riavvio per essere applicato</string>
+    <string name="verified_props_title">Falsifica le proprietà certificate</string>
+    <string name="verified_props_summary">Falsifica le proprietà certificate PI per GMS\nRichiede un riavvio per essere applicato</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Suono dello screenshot</string>
     <!-- Global Actions -->

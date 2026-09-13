@@ -292,14 +292,14 @@
     <string name="app_list_search_apps">搜索应用程序</string>
     <string name="app_list_loading">正在加载应用程序\u2026</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">配置keybox XML</string>
-    <string name="keybox_data_summary">配置系统级密钥伪装，点击删除恢复默认。</string>
+    <string name="device_identity_title">配置keybox XML</string>
+    <string name="device_identity_summary">配置系统级密钥伪装，点击删除恢复默认。</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">配置PIF JSON</string>
-    <string name="pif_data_summary">设定用于 GMS 和谷歌商店的PIF JSON。按删除以重置至原本的动态配置。</string>
+    <string name="device_props_title">配置PIF JSON</string>
+    <string name="device_props_summary">设定用于 GMS 和谷歌商店的PIF JSON。按删除以重置至原本的动态配置。</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">伪装认证属性（certified properties）</string>
-    <string name="cert_overlay_summary">向 GMS 伪装 Play Integrity 认证 Prop\n需要重启才能生效</string>
+    <string name="verified_props_title">伪装认证属性（certified properties）</string>
+    <string name="verified_props_summary">向 GMS 伪装 Play Integrity 认证 Prop\n需要重启才能生效</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">屏幕截图提示音</string>
     <!-- Global Actions -->

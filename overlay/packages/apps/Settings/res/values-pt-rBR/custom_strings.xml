@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Pesquisar apps</string>
     <string name="app_list_loading">Carregando apps\u2026</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Configurar keybox XML</string>
-    <string name="keybox_data_summary">Configure todo o sistema de reconhecimento de chaves. Toque em Excluir para redefinir para o padrão.</string>
+    <string name="device_identity_title">Configurar keybox XML</string>
+    <string name="device_identity_summary">Configure todo o sistema de reconhecimento de chaves. Toque em Excluir para redefinir para o padrão.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">Configurar JSON PIF</string>
-    <string name="pif_data_summary">Configurar o PIF JSON usado para as propriedades dos GMS e da Play Store. Toque em Excluir para reverter para os padrões dinâmicos.</string>
+    <string name="device_props_title">Configurar JSON PIF</string>
+    <string name="device_props_summary">Configurar o PIF JSON usado para as propriedades dos GMS e da Play Store. Toque em Excluir para reverter para os padrões dinâmicos.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Certificado de propriedade de Spoof</string>
-    <string name="cert_overlay_summary">Falsificar propriedades certificadas PI para o GMS\nRequer reinicialização para aplicar</string>
+    <string name="verified_props_title">Certificado de propriedade de Spoof</string>
+    <string name="verified_props_summary">Falsificar propriedades certificadas PI para o GMS\nRequer reinicialização para aplicar</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Som de captura de tela</string>
     <!-- Global Actions -->

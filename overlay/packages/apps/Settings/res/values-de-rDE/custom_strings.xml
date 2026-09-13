@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Apps suchen</string>
     <string name="app_list_loading">Apps werden geladen…</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Keybox-XML konfigurieren</string>
-    <string name="keybox_data_summary">Systemweites Spoofing der Schlüsselattestierung konfigurieren. Tippe auf „Löschen“, um auf die Standardwerte zurückzusetzen.</string>
+    <string name="device_identity_title">Keybox-XML konfigurieren</string>
+    <string name="device_identity_summary">Systemweites Spoofing der Schlüsselattestierung konfigurieren. Tippe auf „Löschen“, um auf die Standardwerte zurückzusetzen.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">PIF-JSON konfigurieren</string>
-    <string name="pif_data_summary">PIF-JSON konfigurieren, mit dem Eigenschaften für GMS und den Play Store gespooft werden. Tippe auf „Löschen“, um zu den dynamischen Standardwerten zurückzukehren.</string>
+    <string name="device_props_title">PIF-JSON konfigurieren</string>
+    <string name="device_props_summary">PIF-JSON konfigurieren, mit dem Eigenschaften für GMS und den Play Store gespooft werden. Tippe auf „Löschen“, um zu den dynamischen Standardwerten zurückzukehren.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Zertifizierte Eigenschaften spoofen</string>
-    <string name="cert_overlay_summary">PI-zertifizierte Eigenschaften gegenüber GMS spoofen\nErfordert einen Neustart</string>
+    <string name="verified_props_title">Zertifizierte Eigenschaften spoofen</string>
+    <string name="verified_props_summary">PI-zertifizierte Eigenschaften gegenüber GMS spoofen\nErfordert einen Neustart</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshot-Ton</string>
     <!-- Global Actions -->

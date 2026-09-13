@@ -292,14 +292,14 @@
     <string name="app_list_search_apps">Caută aplicații</string>
     <string name="app_list_loading">Se încarcă aplicațiile…</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Configurează XML keybox</string>
-    <string name="keybox_data_summary">Configurează falsificarea atestării cheilor la nivel de sistem. Atinge Șterge pentru a reveni la valorile implicite.</string>
+    <string name="device_identity_title">Configurează XML keybox</string>
+    <string name="device_identity_summary">Configurează falsificarea atestării cheilor la nivel de sistem. Atinge Șterge pentru a reveni la valorile implicite.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">Configurează JSON PIF</string>
-    <string name="pif_data_summary">Configurează JSON-ul PIF folosit pentru falsificarea proprietăților pentru GMS și Magazin Play. Atinge Șterge pentru a reveni la valorile implicite dinamice.</string>
+    <string name="device_props_title">Configurează JSON PIF</string>
+    <string name="device_props_summary">Configurează JSON-ul PIF folosit pentru falsificarea proprietăților pentru GMS și Magazin Play. Atinge Șterge pentru a reveni la valorile implicite dinamice.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Falsifică proprietățile certificate</string>
-    <string name="cert_overlay_summary">Falsifică proprietățile certificate PI către GMS\nNecesită repornire pentru aplicare</string>
+    <string name="verified_props_title">Falsifică proprietățile certificate</string>
+    <string name="verified_props_summary">Falsifică proprietățile certificate PI către GMS\nNecesită repornire pentru aplicare</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Sunet captură de ecran</string>
     <!-- Global Actions -->

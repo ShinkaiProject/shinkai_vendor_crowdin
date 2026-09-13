@@ -293,14 +293,14 @@
     <string name="app_list_search_apps">Wyszukaj aplikacje</string>
     <string name="app_list_loading">Ładowanie aplikacji\u2026</string>
     <!-- Keybox Data -->
-    <string name="keybox_data_title">Skonfiguruj zestaw kluczy XML</string>
-    <string name="keybox_data_summary">Skonfiguruj fałszowanie klucza ogólnosystemowego. Dotknij Usuń, aby zresetować do domyślnych.</string>
+    <string name="device_identity_title">Skonfiguruj zestaw kluczy XML</string>
+    <string name="device_identity_summary">Skonfiguruj fałszowanie klucza ogólnosystemowego. Dotknij Usuń, aby zresetować do domyślnych.</string>
     <!-- Pif Data -->
-    <string name="pif_data_title">Skonfiguruj PIF JSON</string>
-    <string name="pif_data_summary">Konfiguracja PIF JSON używana do fałszowania właściwości dla GMS i Sklepu Play. Dotknij Usuń, aby powrócić do dynamicznych ustawień domyślnych.</string>
+    <string name="device_props_title">Skonfiguruj PIF JSON</string>
+    <string name="device_props_summary">Konfiguracja PIF JSON używana do fałszowania właściwości dla GMS i Sklepu Play. Dotknij Usuń, aby powrócić do dynamicznych ustawień domyślnych.</string>
     <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Fałszowanie certyfikowanych właściwości</string>
-    <string name="cert_overlay_summary">Fałszowanie certyfikowanych właściwości PI do GMS\nWymaga ponownego uruchomienia, aby zastosować</string>
+    <string name="verified_props_title">Fałszowanie certyfikowanych właściwości</string>
+    <string name="verified_props_summary">Fałszowanie certyfikowanych właściwości PI do GMS\nWymaga ponownego uruchomienia, aby zastosować</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Dźwięk zrzutu ekranu</string>
     <!-- Global Actions -->
