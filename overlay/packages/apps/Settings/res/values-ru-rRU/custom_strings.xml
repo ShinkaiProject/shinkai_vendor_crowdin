@@ -294,14 +294,14 @@
     <string name="app_list_search_apps">Поиск приложений</string>
     <string name="app_list_loading">Загрузка приложений\u2026</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Настройка KeyBox XML</string>
-    <string name="device_identity_summary">Настроить подмену ключа в масштабе всей системы. Нажмите «Удалить», чтобы сбросить настройки до значений по умолчанию.</string>
+    <string name="keybox_data_title">Настройка KeyBox XML</string>
+    <string name="keybox_data_summary">Настроить подмену ключа в масштабе всей системы. Нажмите «Удалить», чтобы сбросить настройки до значений по умолчанию.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Настройка PIF JSON</string>
-    <string name="device_props_summary">Настроить JSON-файл PIF, используемый для подмены свойств для GMS и Play Store. Нажмите «Удалить», чтобы вернуться к динамическим значениям по умолчанию.</string>
+    <string name="pif_data_title">Настройка PIF JSON</string>
+    <string name="pif_data_summary">Настроить JSON-файл PIF, используемый для подмены свойств для GMS и Play Store. Нажмите «Удалить», чтобы вернуться к динамическим значениям по умолчанию.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Подмена сертификации устройства</string>
-    <string name="verified_props_summary">Подмена параметров Play Integrity для служб Google\nТребуется перезагрузка для применения</string>
+    <string name="cert_overlay_title">Подмена сертификации устройства</string>
+    <string name="cert_overlay_summary">Подмена параметров Play Integrity для служб Google\nТребуется перезагрузка для применения</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Звук скриншота</string>
     <!-- Global Actions -->

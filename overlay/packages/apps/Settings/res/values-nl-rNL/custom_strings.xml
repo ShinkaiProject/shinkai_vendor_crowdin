@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Apps zoeken</string>
     <string name="app_list_loading">Apps laden…</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Keybox-XML configureren</string>
-    <string name="device_identity_summary">Systeembrede spoofing van sleutelattestatie configureren. Tik op Verwijderen om de standaardwaarden te herstellen.</string>
+    <string name="keybox_data_title">Keybox-XML configureren</string>
+    <string name="keybox_data_summary">Systeembrede spoofing van sleutelattestatie configureren. Tik op Verwijderen om de standaardwaarden te herstellen.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">PIF-JSON configureren</string>
-    <string name="device_props_summary">PIF-JSON configureren die wordt gebruikt om eigenschappen voor GMS en de Play Store te spoofen. Tik op Verwijderen om terug te gaan naar de dynamische standaardwaarden.</string>
+    <string name="pif_data_title">PIF-JSON configureren</string>
+    <string name="pif_data_summary">PIF-JSON configureren die wordt gebruikt om eigenschappen voor GMS en de Play Store te spoofen. Tik op Verwijderen om terug te gaan naar de dynamische standaardwaarden.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Gecertificeerde eigenschappen spoofen</string>
-    <string name="verified_props_summary">PI-gecertificeerde eigenschappen spoofen naar GMS\nVereist een herstart om toe te passen</string>
+    <string name="cert_overlay_title">Gecertificeerde eigenschappen spoofen</string>
+    <string name="cert_overlay_summary">PI-gecertificeerde eigenschappen spoofen naar GMS\nVereist een herstart om toe te passen</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshotgeluid</string>
     <!-- Global Actions -->

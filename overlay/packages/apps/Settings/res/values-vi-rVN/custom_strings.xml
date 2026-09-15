@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Tìm ứng dụng</string>
     <string name="app_list_loading">Đang tải ứng dụng…</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Cấu hình XML keybox</string>
-    <string name="device_identity_summary">Cấu hình giả mạo chứng thực khóa trên toàn hệ thống. Nhấn Xóa để khôi phục mặc định.</string>
+    <string name="keybox_data_title">Cấu hình XML keybox</string>
+    <string name="keybox_data_summary">Cấu hình giả mạo chứng thực khóa trên toàn hệ thống. Nhấn Xóa để khôi phục mặc định.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Cấu hình JSON PIF</string>
-    <string name="device_props_summary">Cấu hình JSON PIF dùng để giả mạo thuộc tính cho GMS và Cửa hàng Play. Nhấn Xóa để quay về mặc định động.</string>
+    <string name="pif_data_title">Cấu hình JSON PIF</string>
+    <string name="pif_data_summary">Cấu hình JSON PIF dùng để giả mạo thuộc tính cho GMS và Cửa hàng Play. Nhấn Xóa để quay về mặc định động.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Giả mạo thuộc tính đã chứng nhận</string>
-    <string name="verified_props_summary">Giả mạo thuộc tính chứng nhận PI với GMS\nCần khởi động lại để áp dụng</string>
+    <string name="cert_overlay_title">Giả mạo thuộc tính đã chứng nhận</string>
+    <string name="cert_overlay_summary">Giả mạo thuộc tính chứng nhận PI với GMS\nCần khởi động lại để áp dụng</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Âm thanh chụp màn hình</string>
     <!-- Global Actions -->

@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Buscar aplicaciones</string>
     <string name="app_list_loading">Cargando aplicaciones\u2026</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Configurar keybox XML</string>
-    <string name="device_identity_summary">Configurar la falsificación de la clave en todo el sistema. Pulse Eliminar para restablecer los valores predeterminados.</string>
+    <string name="keybox_data_title">Configurar keybox XML</string>
+    <string name="keybox_data_summary">Configurar la falsificación de la clave en todo el sistema. Pulse Eliminar para restablecer los valores predeterminados.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Configurar PIF JSON</string>
-    <string name="device_props_summary">Configurar PIF JSON usado para suplantar propiedades para GMS y Play Store. Pulse Eliminar para revertir a valores predeterminados dinámicos.</string>
+    <string name="pif_data_title">Configurar PIF JSON</string>
+    <string name="pif_data_summary">Configurar PIF JSON usado para suplantar propiedades para GMS y Play Store. Pulse Eliminar para revertir a valores predeterminados dinámicos.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Simular propiedades certificadas</string>
-    <string name="verified_props_summary">Simular propiedades certificadas PI a GMS\nRequiere un reinicio para aplicar</string>
+    <string name="cert_overlay_title">Simular propiedades certificadas</string>
+    <string name="cert_overlay_summary">Simular propiedades certificadas PI a GMS\nRequiere un reinicio para aplicar</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Sonido de captura de pantalla</string>
     <!-- Global Actions -->

@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Cari aplikasi</string>
     <string name="app_list_loading">Memuat aplikasi…</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Konfigurasi XML keybox</string>
-    <string name="device_identity_summary">Konfigurasi spoofing atestasi kunci di seluruh sistem. Ketuk Hapus untuk mengembalikan ke default.</string>
+    <string name="keybox_data_title">Konfigurasi XML keybox</string>
+    <string name="keybox_data_summary">Konfigurasi spoofing atestasi kunci di seluruh sistem. Ketuk Hapus untuk mengembalikan ke default.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Konfigurasi JSON PIF</string>
-    <string name="device_props_summary">Konfigurasi JSON PIF yang digunakan untuk memalsukan properti untuk GMS dan Play Store. Ketuk Hapus untuk kembali ke default dinamis.</string>
+    <string name="pif_data_title">Konfigurasi JSON PIF</string>
+    <string name="pif_data_summary">Konfigurasi JSON PIF yang digunakan untuk memalsukan properti untuk GMS dan Play Store. Ketuk Hapus untuk kembali ke default dinamis.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Palsukan properti tersertifikasi</string>
-    <string name="verified_props_summary">Palsukan properti tersertifikasi PI ke GMS\nMemerlukan reboot untuk diterapkan</string>
+    <string name="cert_overlay_title">Palsukan properti tersertifikasi</string>
+    <string name="cert_overlay_summary">Palsukan properti tersertifikasi PI ke GMS\nMemerlukan reboot untuk diterapkan</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
     <!-- Global Actions -->

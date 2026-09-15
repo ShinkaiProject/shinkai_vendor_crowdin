@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">アプリを検索</string>
     <string name="app_list_loading">アプリを読み込んでいます…</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">keybox XML を設定</string>
-    <string name="device_identity_summary">システム全体のキー認証スプーフィングを設定します。「削除」をタップするとデフォルトに戻ります。</string>
+    <string name="keybox_data_title">keybox XML を設定</string>
+    <string name="keybox_data_summary">システム全体のキー認証スプーフィングを設定します。「削除」をタップするとデフォルトに戻ります。</string>
     <!-- Pif Data -->
-    <string name="device_props_title">PIF JSON を設定</string>
-    <string name="device_props_summary">GMS と Play ストアに対してプロパティを偽装するための PIF JSON を設定します。「削除」をタップすると動的なデフォルトに戻ります。</string>
+    <string name="pif_data_title">PIF JSON を設定</string>
+    <string name="pif_data_summary">GMS と Play ストアに対してプロパティを偽装するための PIF JSON を設定します。「削除」をタップすると動的なデフォルトに戻ります。</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">認証済みプロパティを偽装</string>
-    <string name="verified_props_summary">GMS に対して PI 認証済みプロパティを偽装します\n適用には再起動が必要です</string>
+    <string name="cert_overlay_title">認証済みプロパティを偽装</string>
+    <string name="cert_overlay_summary">GMS に対して PI 認証済みプロパティを偽装します\n適用には再起動が必要です</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">スクリーンショット音</string>
     <!-- Global Actions -->

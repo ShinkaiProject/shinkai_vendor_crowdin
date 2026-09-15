@@ -293,14 +293,14 @@
     <string name="app_list_search_apps">Пошук додатків</string>
     <string name="app_list_loading">Завантаження\u2026</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Налаштування XML ключових сховищ</string>
-    <string name="device_identity_summary">Налаштуйте підробку атестації ключів для всієї системи. Натисніть «Видалити», щоб скинути налаштування.</string>
+    <string name="keybox_data_title">Налаштування XML ключових сховищ</string>
+    <string name="keybox_data_summary">Налаштуйте підробку атестації ключів для всієї системи. Натисніть «Видалити», щоб скинути налаштування.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Налаштування PIF JSON</string>
-    <string name="device_props_summary">Налаштуйте PIF JSON, який використовується для підробки властивостей для GMS та Play Store. Натисніть «Видалити», щоб повернутися до динамічних налаштувань за замовчуванням.</string>
+    <string name="pif_data_title">Налаштування PIF JSON</string>
+    <string name="pif_data_summary">Налаштуйте PIF JSON, який використовується для підробки властивостей для GMS та Play Store. Натисніть «Видалити», щоб повернутися до динамічних налаштувань за замовчуванням.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Сертифіковані властивості для пародій</string>
-    <string name="verified_props_summary">Підробка властивостей, сертифікованих PI, для GMS\nДля застосування потрібне перезавантаження</string>
+    <string name="cert_overlay_title">Сертифіковані властивості для пародій</string>
+    <string name="cert_overlay_summary">Підробка властивостей, сертифікованих PI, для GMS\nДля застосування потрібне перезавантаження</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Звук скріншота</string>
     <!-- Global Actions -->

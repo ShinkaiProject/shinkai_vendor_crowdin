@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">앱 검색</string>
     <string name="app_list_loading">앱을 불러오는 중\u2026</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Keybox XML 설정</string>
-    <string name="device_identity_summary">시스템 전체의 키 증명 스푸핑을 설정합니다. 기본값으로 초기화하려면 삭제를 탭하세요.</string>
+    <string name="keybox_data_title">Keybox XML 설정</string>
+    <string name="keybox_data_summary">시스템 전체의 키 증명 스푸핑을 설정합니다. 기본값으로 초기화하려면 삭제를 탭하세요.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">PIF JSON 설정</string>
-    <string name="device_props_summary">GMS 및 Play 스토어의 속성을 스푸핑하는 데 사용되는 PIF JSON을 설정합니다. 동적 기본값으로 되돌리려면 삭제를 탭하세요.</string>
+    <string name="pif_data_title">PIF JSON 설정</string>
+    <string name="pif_data_summary">GMS 및 Play 스토어의 속성을 스푸핑하는 데 사용되는 PIF JSON을 설정합니다. 동적 기본값으로 되돌리려면 삭제를 탭하세요.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">인증 속성 스푸핑</string>
-    <string name="verified_props_summary">GMS에 PI 인증 속성을 스푸핑합니다.\n적용하려면 재부팅해야 합니다</string>
+    <string name="cert_overlay_title">인증 속성 스푸핑</string>
+    <string name="cert_overlay_summary">GMS에 PI 인증 속성을 스푸핑합니다.\n적용하려면 재부팅해야 합니다</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">스크린샷 효과음</string>
     <!-- Global Actions -->

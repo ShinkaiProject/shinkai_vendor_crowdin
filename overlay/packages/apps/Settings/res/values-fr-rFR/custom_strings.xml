@@ -291,14 +291,14 @@
     <string name="app_list_search_apps">Rechercher des applications</string>
     <string name="app_list_loading">Chargement des applications…</string>
     <!-- Keybox Data -->
-    <string name="device_identity_title">Configurer le XML keybox</string>
-    <string name="device_identity_summary">Configurer l’usurpation de l’attestation de clés à l’échelle du système. Appuyez sur Supprimer pour rétablir les valeurs par défaut.</string>
+    <string name="keybox_data_title">Configurer le XML keybox</string>
+    <string name="keybox_data_summary">Configurer l’usurpation de l’attestation de clés à l’échelle du système. Appuyez sur Supprimer pour rétablir les valeurs par défaut.</string>
     <!-- Pif Data -->
-    <string name="device_props_title">Configurer le JSON PIF</string>
-    <string name="device_props_summary">Configurer le JSON PIF utilisé pour usurper les propriétés auprès des GMS et du Play Store. Appuyez sur Supprimer pour revenir aux valeurs par défaut dynamiques.</string>
+    <string name="pif_data_title">Configurer le JSON PIF</string>
+    <string name="pif_data_summary">Configurer le JSON PIF utilisé pour usurper les propriétés auprès des GMS et du Play Store. Appuyez sur Supprimer pour revenir aux valeurs par défaut dynamiques.</string>
     <!-- Spoofing toggle -->
-    <string name="verified_props_title">Usurper les propriétés certifiées</string>
-    <string name="verified_props_summary">Usurper les propriétés certifiées PI auprès des GMS\nNécessite un redémarrage</string>
+    <string name="cert_overlay_title">Usurper les propriétés certifiées</string>
+    <string name="cert_overlay_summary">Usurper les propriétés certifiées PI auprès des GMS\nNécessite un redémarrage</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Son de capture d’écran</string>
     <!-- Global Actions -->
